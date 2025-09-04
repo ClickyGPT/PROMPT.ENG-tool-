@@ -1,0 +1,5 @@
+{
+  "name": "[Gemini:BUILD]: CRAFT Prompt Builder Tool",
+  "description": "A comprehensive prompt engineering tool for the Gemini API using the CRAFT framework (Context, Role, Action, Format, Target). It features a real-time linter, template system, history tracking, and direct API testing to help users create highly effective prompts.",
+  "requestFramePermissions": []
+}
